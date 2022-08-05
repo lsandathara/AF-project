@@ -8,7 +8,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mdbreact": "^4.16.0",
-    "mongoose": "^5.5.12",
+    "mongoose": "^5.7.5",
     "nodemailer": "^6.2.1",
     "react": "^16.8.6",
     "react-background-slideshow": "^1.0.4",
